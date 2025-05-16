@@ -1,5 +1,5 @@
 🔍 RevIQ – NLP-Based Review Intelligence Platform
-📖 Project Overview
+**📖 Project Overview
 RevIQ is an interactive NLP-based dashboard designed to analyze customer reviews from platforms like Amazon. Using Natural Language Processing and sentiment analysis techniques, this project helps decode how customers actually feel about products or services. As online reviews grow rapidly, extracting sentiment-based insights has become crucial for improving products, service quality, and brand trust.
 This project uses real-world review data to build an intuitive tool that provides live sentiment insights, keyword highlights, and visual summaries — everything needed for businesses to understand their customers better.
 
